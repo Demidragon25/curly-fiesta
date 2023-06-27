@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Q12L83FOKQkcNbvCcmcVOqihjK5RtT1nCnawfIITOyqnptgNhpwCqp/FJpaCuLtDl84iHIw/Fu1ousRDrMCfuA==",
+  "dgSpecHash": "K/eYSqlvsOSwoRk71RKe2K0SJVGWMMAtr4r61jYKIN9U+IyQATkH/HbBMdFstlZcntz5baRVev/3wMNiXPyOvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\curly-fiesta\\WebServices(Part_2_iii)\\WebServices(Part_2_iii)\\WebServices(Part_2_iii).csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\NADINE\\Desktop\\curly_fiesta\\curly-fiesta\\WebServices(Part_2_iii)\\WebServices(Part_2_iii)\\WebServices(Part_2_iii).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NADINE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\NADINE\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\NADINE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\NADINE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
   "logs": []
 }
