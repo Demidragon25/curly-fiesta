@@ -1,0 +1,16 @@
+﻿@page
+@model WebService2iii.Pages.IndexModel
+@using Microsoft.AspNetCore.Http
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Session Dictionary Example</title>
+</head>
+<body>
+    <h1>Session Dictionary Example</h1>
+    <p>Time: @HttpContext.Session.GetString("Time")</p>
+    <p>User Agent: @HttpContext.Session.GetString("UserAgent")</p>
+    <p>Remote IP: @HttpContext.Session.GetString("RemoteIP")</p>
+</body>
+</html>

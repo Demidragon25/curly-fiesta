@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WebServices(Part_2_iii).props" />
+</Project>
