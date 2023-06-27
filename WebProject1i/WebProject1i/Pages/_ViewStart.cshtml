@@ -1,0 +1,6 @@
+﻿@{
+    Layout = "_Layout";
+    Context.Request.EnableBuffering();
+    var loggerFactory = (ILoggerFactory)Context.RequestServices.GetService(typeof(ILoggerFactory));
+    var logger = loggerFactory?.CreateLogger("Tracing");
+}

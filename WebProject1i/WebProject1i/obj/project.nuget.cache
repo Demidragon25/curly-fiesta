@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AwmeqTa9xS5JigvVLLmguFJPlge3rAFuv6F6U4BIyCc8oU+0gzP6iMsGMszcuOZRiQPvdbv88p7Gc/PWPhyiHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NADINE\\Desktop\\WebProject1i\\WebProject1i\\WebProject1i.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NADINE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\NADINE\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\NADINE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\NADINE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
