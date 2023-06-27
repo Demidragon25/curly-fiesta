@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+    "C:\\Users\\NADINE\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\curly-fiesta\\WebServices(Part_2_iii)\\WebServices(Part_2_iii)\\WebServices(Part_2_iii).csproj",
+      "projectUniqueName": "C:\\Users\\NADINE\\Desktop\\curly_fiesta\\curly-fiesta\\WebServices(Part_2_iii)\\WebServices(Part_2_iii)\\WebServices(Part_2_iii).csproj",
       "projectName": "WebServices(Part_2_iii)",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\curly-fiesta\\WebServices(Part_2_iii)\\WebServices(Part_2_iii)\\WebServices(Part_2_iii).csproj",
-      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\curly-fiesta\\WebServices(Part_2_iii)\\WebServices(Part_2_iii)\\obj\\",
+      "projectPath": "C:\\Users\\NADINE\\Desktop\\curly_fiesta\\curly-fiesta\\WebServices(Part_2_iii)\\WebServices(Part_2_iii)\\WebServices(Part_2_iii).csproj",
+      "packagesPath": "C:\\Users\\NADINE\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NADINE\\Desktop\\curly_fiesta\\curly-fiesta\\WebServices(Part_2_iii)\\WebServices(Part_2_iii)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\NADINE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -57,6 +57,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.19, 6.0.19]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.19, 6.0.19]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.19, 6.0.19]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.19, 6.0.19]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -65,7 +83,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
       }
     }
   }

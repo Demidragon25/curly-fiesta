@@ -15,6 +15,41 @@
         </div>
     </nav>
 
+    <h1>Welcome, @Model.Name!</h1>
+
+    <div id="adContainer">
+        <img id="adImage" src="/Ads/Ad1.jpg" alt="Ad Image" width="150" />
+    </div>
+
+    <form method="post">
+        <div class="form-group">
+            <label for="name">Enter your name:</label>
+            <input type="text" class="form-control" id="name" name="name" value="@Model.Name" />
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+    @section Scripts {
+        <script>
+            window.onload = function () {
+                rotateAd();
+            };
+
+            function rotateAd() {
+                var adContainer = document.getElementById("adContainer");
+                var adImage = document.getElementById("adImage");
+                var adIndex = 1; // Start with the second ad image
+
+                setInterval(function () {
+                    adIndex = (adIndex % 3) + 1; // Replace '3' with the number of ad images you have
+
+                    adImage.src = "/Ads/Ad" + adIndex + ".jpg";
+                }, 3000); // Change the ad every 3 seconds (adjust as needed)
+            }
+        </script>
+    }
+
+
     <div class="container mt-4">
         <div class="card">
             <div class="card-header">
