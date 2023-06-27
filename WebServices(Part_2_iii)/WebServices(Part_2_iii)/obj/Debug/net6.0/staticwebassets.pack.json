@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\WebServices(Part_2_iii).bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\NADINE\\Desktop\\curly_fiesta\\curly-fiesta\\WebServices(Part_2_iii)\\WebServices(Part_2_iii)\\wwwroot\\Ads\\Ad1.jpg",
+      "PackagePath": "staticwebassets\\Ads\\Ad1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NADINE\\Desktop\\curly_fiesta\\curly-fiesta\\WebServices(Part_2_iii)\\WebServices(Part_2_iii)\\wwwroot\\Ads\\Ad2.jpg",
+      "PackagePath": "staticwebassets\\Ads\\Ad2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NADINE\\Desktop\\curly_fiesta\\curly-fiesta\\WebServices(Part_2_iii)\\WebServices(Part_2_iii)\\wwwroot\\Ads\\Ad3.jpg",
+      "PackagePath": "staticwebassets\\Ads\\Ad3.jpg"
+    },
+    {
       "Id": "C:\\Users\\NADINE\\Desktop\\curly_fiesta\\curly-fiesta\\WebServices(Part_2_iii)\\WebServices(Part_2_iii)\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
